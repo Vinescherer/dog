@@ -1,0 +1,11 @@
+C:\Users\23100274\source\repos\DOGÃO\DOGÃO\bin\Debug\DOGÃO.exe.config
+C:\Users\23100274\source\repos\DOGÃO\DOGÃO\bin\Debug\DOGÃO.exe
+C:\Users\23100274\source\repos\DOGÃO\DOGÃO\bin\Debug\DOGÃO.pdb
+C:\Users\23100274\source\repos\DOGÃO\DOGÃO\obj\Debug\DOGÃO.csproj.AssemblyReference.cache
+C:\Users\23100274\source\repos\DOGÃO\DOGÃO\obj\Debug\DOGÃO.csproj.SuggestedBindingRedirects.cache
+C:\Users\23100274\source\repos\DOGÃO\DOGÃO\obj\Debug\DOGÃO.Form1.resources
+C:\Users\23100274\source\repos\DOGÃO\DOGÃO\obj\Debug\DOGÃO.Properties.Resources.resources
+C:\Users\23100274\source\repos\DOGÃO\DOGÃO\obj\Debug\DOGÃO.csproj.GenerateResource.cache
+C:\Users\23100274\source\repos\DOGÃO\DOGÃO\obj\Debug\DOGÃO.csproj.CoreCompileInputs.cache
+C:\Users\23100274\source\repos\DOGÃO\DOGÃO\obj\Debug\DOGÃO.exe
+C:\Users\23100274\source\repos\DOGÃO\DOGÃO\obj\Debug\DOGÃO.pdb
